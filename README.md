@@ -1,1 +1,1 @@
-# Coding-Ninjas-C-IP
+# Coding Ninjas C++ Interview Preparation Course. My submisions.
